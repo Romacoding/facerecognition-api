@@ -16,6 +16,7 @@
     "express": "^4.16.2",
     "knex": "^0.15.2",
     "pg": "^7.4.0",
+    "psql": "0.0.1",
     "randomatic": "^3.0.0"
   },
   "devDependencies": {
